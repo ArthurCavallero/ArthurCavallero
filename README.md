@@ -6,25 +6,25 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Arthur! A passionate Computer Science student from Brazil.
+  Oii 👋, sou o Arthur! Um estudante apaixonado pela área de tecnologia.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Estou estudando Ciência da computação na Faci Wyden <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou a procura da minha primeira oportunidade de trabalho na área. Sonho em trabalhar futuramente como engenheiro de software e ter experiências trabalhando com IAs, cibersegurança e criando jogos.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 Tenho 21 anos e atualmente moro em Belém do Pará. Sou fluente em Inglês e tenho experiência com SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur.cavallero/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cavallero-a05a89257/)
 
 <!-- GithubStats -->
 ![ArthurCavallero GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurCavallero&show_icons=true&theme=gotham)
