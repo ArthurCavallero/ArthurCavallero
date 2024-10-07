@@ -6,18 +6,18 @@
 
 <!-- Presentation -->
 <p>
-  Oii 👋, sou o Arthur! Um estudante apaixonado pela área de tecnologia.
+  Hi 👋, i'm Arthur! A passionate IT student from Brazil.
 
-  - 🌱 Estou estudando Ciência da computação na Faci Wyden <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I'm studying Computer Science in Faci Wyden, a college of Brazil <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 Estou a procura da minha primeira oportunidade de trabalho na área. Sonho em trabalhar futuramente como engenheiro de software e ter experiências trabalhando com IAs, cibersegurança e criando jogos.
+  - 🔭 I'm looking for my first job opportunity. My dream is work as a Softare Enginner and have experience working with AI, Cybersecurity, and Games. 
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Tenho 21 anos e atualmente moro em Belém do Pará. Sou fluente em Inglês e tenho experiência com SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 21 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a creative, outgoing, cooperative and agile person.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
@@ -33,11 +33,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+
 
 <!-- GIF -->
 <p align="left">
