@@ -10,7 +10,7 @@
 
   - 🌱 I'm studying Computer Science in Faci Wyden, a college of Brazil <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I'm looking for my first job opportunity. My dream is work as a Softare Enginner and have experience working with AI, Cybersecurity, and Games. 
+  - 🔭 I'm looking for my first job opportunity. My dream is work as a Software Enginner and have experience working with AI, Cybersecurity, and Games. 
 </p>
 
 <!-- Dropdown -->
